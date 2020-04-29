@@ -2,7 +2,9 @@ package com.imti.git.pojo;
 
 public class Student {
 
-	private String name;					//edit by Git-Project02
+	private String name;					
+	//	edit by Git-Project02
+	//	edit by Git-Project01
 
 	public String getName() {
 		return name;
