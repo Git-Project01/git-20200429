@@ -2,7 +2,7 @@ package com.imti.git.pojo;
 
 public class Student {
 
-	private String name;
+	private String name;					//edit by Git-Project02
 
 	public String getName() {
 		return name;
